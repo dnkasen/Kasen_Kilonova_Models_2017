@@ -17,6 +17,13 @@ broken power law that falls off like v^{-d} in the inner layers and more
 steeply like v^{-10} in the outer layers. The transition between the power-laws
 is set by the mass and kinetic energy.
 
+
+The files under the "kilonova_models" directory are the original ones released with the Kasen+2017 paper
+
+The files under the "systematic_kilonova_model_grid" are models calculated in the same way, but with a more
+regular sampling of the grid of parameters: m, vk, Xlan
+
+
 Filenames give
 
 d    = exponent of inner denisty profile
@@ -44,11 +51,8 @@ Units of the spectra are ergs/sec/Hz
 
 (If you are having difficulty with hdf5 files, let me know and I can provide ascii files)
 
-----
 
-(Note: I improved the thermalization factor which may have made small changes in some models;
-the older models without the fixed (prior to 9/10/2017) have been put in the PREVIOUS folder.
-The ones in this folder are the most up-to-date)
+
 
 
 
