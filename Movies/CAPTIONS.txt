@@ -1,0 +1,21 @@
+Kilonova Model Animations 
+credit: Daniel Kasen (UC Berkeley)
+
+ejecta.mov: 
+Illustration of the radioactive debris cloud from a neutron star merger, expanding over a period of two weeks. The illustration is derived from observations of the kilonova observations associated with GW170817. Lighter elements in the outer polar regions give rise to quickly fading blue light. Heavier elements in a surrounding donut and spherical core produce longer lasting red light.
+
+
+spectrum_model.mov: 
+Theoretical calculation of the evolution of the spectrum of light from a kilonova such as that associated with GW170817. Over a period of two weeks, the light evolves from blue emission from lighter radioactive elements, to red emission from heavier radioactive elements.
+
+
+ejecta_spectra.mov: 
+Theoretical calculation of the evolution of the spectrum of light from a kilonova such as that associated with GW170817. The right panel shows an illustration of the expanding radioactive debris cloud ejected from a neutron star merger that gives rise to the light.  The emission quickly evolves from  blue to red.
+
+lightcurve_model.mov: 
+Theoretical calculation of the blue and the red light from a kilonova, compared to observational data for the transient SSS17a associated with GW170817. The data agrees with theoretical predictions that the blue light should fade quickly over days, but that red light should persist for weeks after the merger.
+
+
+ejecta_lightcurve.mov: 
+Theoretical calculation of the blue and the red light from a kilonova, compared to observational data for the transient SSS17a associated with GW170817. The data agrees with theoretical predictions that the blue light should fade quickly over days,but that red light should persist for weeks after the merger. The right panel shows an illustration of the expanding radioactive debris cloud ejected from a neutron star merger that gives rise to the light. Lighter elements in the outer polar regions give rise to quickly fading blue light. Heavier elements in a surrounding donut and spherical core produce longer lasting red light
+
